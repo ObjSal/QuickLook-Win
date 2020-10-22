@@ -1,4 +1,5 @@
-
+# Author: Salvador Guerrero
+# Repository: https://github.com/ObjSal/QuickLook-Win
 from fman import DirectoryPaneCommand
 from fman.url import splitscheme, as_human_readable
 import subprocess
